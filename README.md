@@ -1,4 +1,4 @@
-# btSearch A torrent search engine implemented in golang
+# BTsearch A torrent search engine implemented in golang
 <p align="center">
   <a href="https://pkg.go.dev/github.com/Bmixo/btSearch"><img src="https://pkg.go.dev/badge/github.com/Bmixo/btSearch" alt="PkgGoDev"></a>
   <a href="https://goreportcard.com/report/github.com/Bmixo/btSearch"><img src="https://goreportcard.com/badge/github.com/Bmixo/btSearch" alt="Go Report Card"></a>
