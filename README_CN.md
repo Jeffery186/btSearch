@@ -1,4 +1,4 @@
-# btSearch 一个用go语言实现的磁力搜索网站
+# BTsearch 一个用go语言实现的磁力搜索网站
 <p align="center">
   <a href="https://pkg.go.dev/github.com/Bmixo/btSearch"><img src="https://pkg.go.dev/badge/github.com/Bmixo/btSearch" alt="PkgGoDev"></a>
   <a href="https://goreportcard.com/report/github.com/Bmixo/btSearch"><img src="https://goreportcard.com/badge/github.com/Bmixo/btSearch" alt="Go Report Card"></a>
